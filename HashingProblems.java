@@ -1,6 +1,5 @@
 /*
- * *** YOUR NAME GOES HERE / YOUR SECTION NUMBER ***
- *
+ * Erick Diaz COMP 272 002
  * This HashingProblems object contains three methods / problems that you must
  * complete utilize the HashMap object within the Java's Collection Framework Library.
  *
